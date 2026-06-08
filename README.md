@@ -74,7 +74,6 @@ Example performance:
 customer_churn_system/
 │
 ├── data/
-├── database/
 ├── models/
 ├── sql/
 ├── src/
